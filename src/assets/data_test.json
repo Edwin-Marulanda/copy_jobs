@@ -1,0 +1,137 @@
+{
+    "datos": [
+        {
+            "id": 1,
+            "puesto": "Regente de farmacia Supernumerario",
+            "empresa": "OFIMEDICAS SA",
+            "ubicacion": "Popayan",
+            "tipo_pago": {
+                "tipo": "COP",
+                "pago":"4M"
+            },
+            "vacantes": "2",
+            "publicacion": "4",
+            "veneficios": {
+                "fiestas": "S",
+                "capacitaciones": "S"
+            },
+            "aptitudes": [
+                "En equipo",
+                "trabajo",
+                "rapido"
+            ]
+        },
+        {
+            "id": 1,
+            "puesto": "Regente de farmacia Supernumerario",
+            "empresa": "OFIMEDICAS SA",
+            "ubicacion": "ciudad",
+            "tipo_pago": {
+                "tipo": "USD",
+                "pago":"1.5K"
+            },
+            "vacantes": "2",
+            "publicacion": "4",
+            "veneficios": {
+                "fiestas": "S",
+                "capacitaciones": "S"
+            },
+            "aptitudes": [
+                "En equipo",
+                "trabajo",
+                "rapido"
+            ]
+        },
+        {
+            "id": 1,
+            "puesto": "Regente de farmacia Supernumerario",
+            "empresa": "OFIMEDICAS SA",
+            "ubicacion": "ciudad",
+            "tipo_pago": "pago",
+            "vacantes": "2",
+            "publicacion": "4",
+            "veneficios": {
+                "fiestas": "S",
+                "capacitaciones": "S"
+            },
+            "aptitudes": [
+                "En equipo",
+                "trabajo",
+                "rapido",
+                "otras cosas"
+            ]
+        },
+        {
+            "id": 1,
+            "puesto": "Regente de farmacia Supernumerario",
+            "empresa": "OFIMEDICAS SA",
+            "ubicacion": "ciudad",
+            "tipo_pago": "pago",
+            "vacantes": "2",
+            "publicacion": "4",
+            "veneficios": {
+                "fiestas": "S",
+                "capacitaciones": "S"
+            },
+            "aptitudes": [
+                "En equipo",
+                "trabajo",
+                "rapido"
+            ]
+        },
+        {
+            "id": 1,
+            "puesto": "Regente de farmacia Supernumerario",
+            "empresa": "OFIMEDICAS SA",
+            "ubicacion": "ciudad",
+            "tipo_pago": "pago",
+            "vacantes": "2",
+            "publicacion": "4",
+            "veneficios": {
+                "fiestas": "S",
+                "capacitaciones": "S"
+            },
+            "aptitudes": [
+                "En equipo",
+                "trabajo",
+                "rapido"
+            ]
+        },
+        {
+            "id": 1,
+            "puesto": "Regente de farmacia Supernumerario",
+            "empresa": "OFIMEDICAS SA",
+            "ubicacion": "ciudad",
+            "tipo_pago": "pago",
+            "vacantes": "2",
+            "publicacion": "4",
+            "veneficios": {
+                "fiestas": "S",
+                "capacitaciones": "S"
+            },
+            "aptitudes": [
+                "En equipo",
+                "trabajo",
+                "rapido"
+            ]
+        },
+        {
+            "id": 1,
+            "puesto": "Regente de farmacia Supernumerario",
+            "empresa": "OFIMEDICAS SA",
+            "ubicacion": "ciudad",
+            "tipo_pago": "pago",
+            "vacantes": "2",
+            "publicacion": "4",
+            "veneficios": {
+                "fiestas": "S",
+                "capacitaciones": "S"
+            },
+            "aptitudes": [
+                "En equipo",
+                "trabajo",
+                "rapido"
+            ]
+        }
+    ]
+}
