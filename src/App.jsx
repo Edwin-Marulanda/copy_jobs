@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import data from './assets/data_test.json'
 import Aptitudes from './components/Aptitudes'
 import TipoPago from './components/TipoPago'
+import Beneficios from './components/Beneficios'; 
 
 import { GiPositionMarker } from "react-icons/gi";
 import { IoPeopleOutline } from "react-icons/io5";
@@ -78,13 +79,14 @@ function App() {
                                                 </div>
                                                 <div className="col-2">
                                                     {/* Renderiza los iconos de beneficios */}
-                                                    {Object.keys(data.beneficios).map((beneficio, index) => {
+                                                    {/*Object.keys(data.beneficios).map((beneficio, index) => {
                                                     if (data.beneficios[beneficio] === 'S' && iconosBeneficios[beneficio]) {
                                                         const Icono = iconosBeneficios[beneficio];
                                                         return <Icono key={index} />;
                                                     }
                                                     return null;
-                                                    })}
+                                                    })*/}
+                                                    <Beneficios beneficios={data.beneficios} />
                                                 </div>
                                             </div>
 
