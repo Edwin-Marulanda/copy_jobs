@@ -2,6 +2,7 @@
     "datos": [
         {
             "id": 1,
+            "url_img": "img_1.png",
             "puesto": "Regente de farmacia Supernumerario",
             "empresa": "OFIMEDICAS SA",
             "ubicacion": "Popayan",
@@ -11,7 +12,7 @@
             },
             "vacantes": "2",
             "publicacion": "4",
-            "veneficios": {
+            "beneficios": {
                 "fiestas": "S",
                 "capacitaciones": "S"
             },
@@ -22,116 +23,136 @@
             ]
         },
         {
-            "id": 1,
-            "puesto": "Regente de farmacia Supernumerario",
-            "empresa": "OFIMEDICAS SA",
-            "ubicacion": "ciudad",
+            "id": 2,
+            "url_img": "img_2.png",
+            "puesto": "Asistente de Investigación Clínica",
+            "empresa": "BioPharma Innovations",
+            "ubicacion": "Bogotá",
             "tipo_pago": {
-                "tipo": "USD",
-                "pago":"1.5K"
+                "tipo": "COP",
+                "pago": "3.5M"
             },
-            "vacantes": "2",
-            "publicacion": "4",
-            "veneficios": {
-                "fiestas": "S",
-                "capacitaciones": "S"
+            "vacantes": "3",
+            "publicacion": "5",
+            "beneficios": {
+                "seguro_medico": "S",
+                "bono_anual": "S"
             },
             "aptitudes": [
-                "En equipo",
-                "trabajo",
-                "rapido"
+                "Organizado",
+                "Atención al detalle",
+                "Trabajo en equipo"
             ]
         },
         {
-            "id": 1,
-            "puesto": "Regente de farmacia Supernumerario",
-            "empresa": "OFIMEDICAS SA",
-            "ubicacion": "ciudad",
-            "tipo_pago": "pago",
-            "vacantes": "2",
-            "publicacion": "4",
-            "veneficios": {
-                "fiestas": "S",
-                "capacitaciones": "S"
+            "id": 2,
+            "url_img": "img_2.png",
+            "puesto": "Ingeniero de Desarrollo de Software",
+            "empresa": "TechSolutions Ltda.",
+            "ubicacion": "Medellín",
+            "tipo_pago": {
+                "tipo": "COP",
+                "pago": "5.8M"
+            },
+            "vacantes": "1",
+            "publicacion": "3",
+            "beneficios": {
+                "seguro_vida": "S",
+                "teletrabajo": "S"
             },
             "aptitudes": [
-                "En equipo",
-                "trabajo",
-                "rapido",
-                "otras cosas"
+                "Programación",
+                "Resolución de problemas",
+                "Comunicación efectiva"
             ]
         },
         {
-            "id": 1,
-            "puesto": "Regente de farmacia Supernumerario",
-            "empresa": "OFIMEDICAS SA",
-            "ubicacion": "ciudad",
-            "tipo_pago": "pago",
+            "id": 3,
+            "url_img": "img_3.png",
+            "puesto": "Analista de Marketing Digital",
+            "empresa": "DigitalTrends SA",
+            "ubicacion": "Cali",
+            "tipo_pago": {
+                "tipo": "COP",
+                "pago": "4.2M"
+            },
             "vacantes": "2",
-            "publicacion": "4",
-            "veneficios": {
-                "fiestas": "S",
-                "capacitaciones": "S"
+            "publicacion": "6",
+            "beneficios": {
+                "seguro_salud": "S",
+                "flexibilidad_horaria": "S"
             },
             "aptitudes": [
-                "En equipo",
-                "trabajo",
-                "rapido"
+                "SEO",
+                "Redes Sociales",
+                "Análisis de datos"
             ]
         },
         {
-            "id": 1,
-            "puesto": "Regente de farmacia Supernumerario",
-            "empresa": "OFIMEDICAS SA",
-            "ubicacion": "ciudad",
-            "tipo_pago": "pago",
-            "vacantes": "2",
-            "publicacion": "4",
-            "veneficios": {
-                "fiestas": "S",
-                "capacitaciones": "S"
+            "id": 4,
+            "url_img": "img_4.png",
+            "puesto": "Diseñador Gráfico Senior",
+            "empresa": "Creativos Digitales SAS",
+            "ubicacion": "Cartagena",
+            "tipo_pago": {
+                "tipo": "COP",
+                "pago": "4.7M"
+            },
+            "vacantes": "1",
+            "publicacion": "2",
+            "beneficios": {
+                "seguro_dental": "S",
+                "días_libres_extra": "S"
             },
             "aptitudes": [
-                "En equipo",
-                "trabajo",
-                "rapido"
+                "Adobe Illustrator",
+                "Creatividad",
+                "Trabajo bajo presión"
             ]
         },
         {
-            "id": 1,
-            "puesto": "Regente de farmacia Supernumerario",
-            "empresa": "OFIMEDICAS SA",
-            "ubicacion": "ciudad",
-            "tipo_pago": "pago",
+            "id": 5,
+            "url_img": "img_5.png",
+            "puesto": "Analista de Datos",
+            "empresa": "DataTech Solutions",
+            "ubicacion": "Barranquilla",
+            "tipo_pago": {
+                "tipo": "COP",
+                "pago": "4.5M"
+            },
             "vacantes": "2",
-            "publicacion": "4",
-            "veneficios": {
-                "fiestas": "S",
-                "capacitaciones": "S"
+            "publicacion": "7",
+            "beneficios": {
+                "seguro_vida": "S",
+                "horario_flexible": "S"
             },
             "aptitudes": [
-                "En equipo",
-                "trabajo",
-                "rapido"
+                "Análisis estadístico",
+                "Manejo de herramientas de visualización de datos",
+                "Comunicación efectiva"
             ]
         },
         {
-            "id": 1,
-            "puesto": "Regente de farmacia Supernumerario",
-            "empresa": "OFIMEDICAS SA",
-            "ubicacion": "ciudad",
-            "tipo_pago": "pago",
-            "vacantes": "2",
-            "publicacion": "4",
-            "veneficios": {
-                "fiestas": "S",
-                "capacitaciones": "S"
+            "id": 6,
+            "url_img": "img_6.png",
+            "puesto": "Desarrollador Frontend",
+            "empresa": "CodeCrafters Ltda.",
+            "ubicacion": "Bogotá",
+            "tipo_pago": {
+                "tipo": "COP",
+                "pago": "6.2M"
+            },
+            "vacantes": "3",
+            "publicacion": "5",
+            "beneficios": {
+                "seguro_salud": "S",
+                "bono_desempeño": "S"
             },
             "aptitudes": [
-                "En equipo",
-                "trabajo",
-                "rapido"
+                "HTML",
+                "CSS",
+                "JavaScript"
             ]
-        }
+        }                
     ]
 }
