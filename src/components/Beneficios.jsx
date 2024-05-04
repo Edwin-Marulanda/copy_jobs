@@ -2,10 +2,9 @@ import React from "react";
 import { OverlayTrigger, Tooltip } from 'react-bootstrap';
 //import iconosBeneficios from './iconosBeneficios'; // Importa el mapeo de iconos de beneficios
 
-import { FaStar, FaMedkit, FaBriefcase, FaBuilding, FaUsers, FaCalendarAlt, FaUserClock, FaUserShield, FaUserFriends, FaClock, FaMoneyBillWave, FaRegSmileBeam, FaTooth } from "react-icons/fa";
+import { FaStar, FaMedkit, FaBriefcase, FaCalendarAlt, FaUserShield, FaClock, FaMoneyBillWave, FaRegSmileBeam, FaTooth } from "react-icons/fa";
 import { RiFileList3Line } from "react-icons/ri";
 import { BiTimeFive } from "react-icons/bi";
-import { IoMdPeople, IoMdBusiness } from "react-icons/io";
 
 // Define el mapeo de beneficios a iconos
 const iconosBeneficios = {
